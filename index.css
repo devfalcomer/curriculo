@@ -1,0 +1,156 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('./img/background4dev.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: azure;
+}
+
+.fundo {
+    background-color: rgba(10, 23, 55, 0.7);
+    padding: 30px;
+    border-radius: 20px;
+    margin: 20px;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    margin-left: 10rem;
+    margin-bottom: 20px;
+}
+
+.imgperfil {
+    width: 200px;
+    height: 200px;
+    margin-right: 20px;
+    border: 5px solid white;
+    border-radius: 100%;
+}
+
+.objetivos{
+    border: 2px solid white;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+
+.formacao{
+    border: 2px solid white;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+
+.exp{
+    border: 2px solid white;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+
+.linhadivisoria {
+    border: 1px solid;
+    margin-left: 10rem;
+    margin-right: 10rem;
+}
+
+.contato {
+    display: flex;
+    justify-content: center;
+    margin-top: 0.9rem;
+    font-size: 20px;
+}
+
+.contato img {
+    margin-right: 10px;
+    width: 30px;
+    height: 30px;
+}
+
+#whats {
+    text-decoration: none;
+    color: white;
+    margin-bottom: 15px;
+    margin-right: 20px;
+}
+
+#whats:hover {
+    text-decoration: none;
+    color: green;
+}
+
+#gmail {
+    text-decoration: none;
+    color: white;
+    margin-bottom: 15px;
+    margin-right: 20px;
+}
+
+
+#gmail:hover {
+    text-decoration: none;
+    color: red;
+}
+
+#github {
+    text-decoration: none;
+    color: white;
+    margin-bottom: 15px;
+    margin-right: 20px;
+}
+
+
+#github:hover {
+    text-decoration: none;
+    color: darkblue;
+}
+
+#linkedin {
+    text-decoration: none;
+    color: white;
+    margin-bottom: 15px;
+    margin-right: 20px;
+}
+
+
+#linkedin:hover {
+    text-decoration: none;
+    color: cyan;
+}
+
+
+.maih4 {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.pobj {
+    text-align: justify;
+    margin-top: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.pobjf {
+    text-align: justify;
+    margin-bottom: -2px;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+.pobje {
+    text-align: justify;
+    margin-bottom: -2px;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+.cargo{
+    font-size: 14px;
+    margin-left: 20px;
+}
